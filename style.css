@@ -41,8 +41,8 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: absolute;
-	top: 4%;
-	left: 4%;
+	top: 40px;
+	left: 80px;
 	cursor: pointer;
 }
 
