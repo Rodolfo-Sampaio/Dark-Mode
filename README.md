@@ -38,7 +38,7 @@ O recurso Modo Noturno, também conhecido como Dark Mode, está ganhando cada ve
 [Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
-### "Olá, entusiasta da programação! ✈️ Bem-vindo à 'Aerodança de Códigos' em homenagem a Santos Dumont. Cada linha de código é um voo em nossa criação digital. Gostou da viagem? Dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos decolar juntos para novos horizontes de código! Até mais, que a genialidade do HTML e a elegância do CSS estejam com você, pioneiro da programação! 🛩️💻 #CodeFlight"
+#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=100&section=footer" alt="Waving Capsule Render">
 
