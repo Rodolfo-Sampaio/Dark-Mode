@@ -38,7 +38,7 @@ O recurso Modo Noturno, também conhecido como Dark Mode, está ganhando cada ve
 [Luan Alves](https://www.linkedin.com/in/luanalvesdev/)
 <br>
 <br>
-#### 🚀Thank you for visiting my Git. If you give me a [`Follow`](https://github.com/Rodolfo-Sampaio), I'll be happy to return the favor!  😎👩‍💻
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A9A9A9&height=100&section=footer" alt="Waving Capsule Render">
 
